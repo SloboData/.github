@@ -1,12 +1,21 @@
-## Hi there 👋
+# SloboData
 
-<!--
+Welcome to SloboData's official repository!
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Thank you for choosing SloboData!
+
+Konstantin | Tome
+--- | ---
+![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tino097&theme=merko&show_icons=true) |![Tome's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeCirun&theme=merko&show_icons=true)
+|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tino097&theme=merko)](https://git.io/streak-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomeCirun&theme=merko)](https://git.io/streak-stats)
+
+## Our Projects
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tino097&hide_progress=false&theme=merko&layout=compact)
+
+## Contact Us
+
+You can contact us at
+konstantin.sivakov [at] gmail [dot] com
